@@ -1,0 +1,8 @@
+{
+  "name": "StockFlow 4K — Adobe Stock AI Agent & SFTP Automation",
+  "description": "Autonomous AI agent for 4K Ultra-HD stock image generation, market trend analysis, Adobe Stock Generative AI SEO metadata optimization (70-char title & 49 priority keywords), technical QC, and scheduled SFTP + UTF-8 CSV distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
